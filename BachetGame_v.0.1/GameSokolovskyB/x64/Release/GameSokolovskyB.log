@@ -1,0 +1,52 @@
+﻿  create.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(15): warning C4042: color: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorLine: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorFill: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(4): warning C4042: color: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(7): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(10): error C4996: 'sf::Text::setColor': объявлен deprecate
+  d:\libs\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(23): warning C4042: colorLine: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(23): warning C4042: colorFill: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(35): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(639): note:  см. объявление "_itoa"
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(53): error C4996: 'sf::Text::setColor': объявлен deprecate
+  d:\libs\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(67): error C4996: 'sf::Text::setColor': объявлен deprecate
+  d:\libs\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.cpp(81): error C4996: 'sf::Text::setColor': объявлен deprecate
+  d:\libs\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+  endGame.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(15): warning C4042: color: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorLine: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorFill: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\endgame.cpp(10): warning C4101: pressEsc: неиспользованная локальная переменная
+  game.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(15): warning C4042: color: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorLine: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorFill: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\game.cpp(159): error C4996: 'sf::Text::setColor': объявлен deprecate
+  d:\libs\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\game.cpp(171): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(639): note:  см. объявление "_itoa"
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\game.cpp(187): error C4996: 'sf::Text::setColor': объявлен deprecate
+  d:\libs\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+  gameMechanic.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\gamemechanic.cpp(23): error C4996: 'sf::Text::setColor': объявлен deprecate
+  d:\libs\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\gamemechanic.cpp(27): error C4996: 'sf::Text::setColor': объявлен deprecate
+  d:\libs\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\gamemechanic.cpp(31): error C4996: 'sf::Text::setColor': объявлен deprecate
+  d:\libs\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\gamemechanic.cpp(35): error C4996: 'sf::Text::setColor': объявлен deprecate
+  d:\libs\sfml-2.4.2\include\sfml\graphics\text.hpp(177): note:  см. объявление "sf::Text::setColor"
+  main.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(15): warning C4042: color: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorLine: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorFill: имеет недопустимый класс хранения
+  menu.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(15): warning C4042: color: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorLine: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorFill: имеет недопустимый класс хранения

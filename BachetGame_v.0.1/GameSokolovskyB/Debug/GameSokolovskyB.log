@@ -1,0 +1,13 @@
+﻿  create.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(6): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  endGame.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\endgame.h(6): fatal error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  game.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\game.h(5): fatal error C1083: Не удается открыть файл включение: SFML\Graphics.hpp: No such file or directory,
+  gameMechanic.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\gamemechanic.h(6): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  main.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\main.cpp(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  menu.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\menu.h(6): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Создание кода...

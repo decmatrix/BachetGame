@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(15): warning C4042: color: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorLine: имеет недопустимый класс хранения
+d:\dev programs\c & c++\gamesokolovskyb\gamesokolovskyb\create.h(19): warning C4042: colorFill: имеет недопустимый класс хранения
+  GameSokolovskyB.vcxproj -> D:\Dev Programs\C & C++\GameSokolovskyB\x64\Debug\GameSokolovskyB.exe
