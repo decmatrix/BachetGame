@@ -1,1 +1,1 @@
-# bachet_game
+# BachetGame
